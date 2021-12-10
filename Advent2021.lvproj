@@ -42,6 +42,12 @@
 		<Item Name="Day 8" Type="Folder">
 			<Item Name="Day08-1.vi" Type="VI" URL="../Day08-1.vi"/>
 			<Item Name="Day08-2.vi" Type="VI" URL="../Day08-2.vi"/>
+			<Item Name="Day08-create_set.vi" Type="VI" URL="../Day08-create_set.vi"/>
+			<Item Name="Day08-sets_to_map.vi" Type="VI" URL="../Day08-sets_to_map.vi"/>
+		</Item>
+		<Item Name="Day 9" Type="Folder">
+			<Item Name="Day09-1.vi" Type="VI" URL="../Day09-1.vi"/>
+			<Item Name="Day09-2.vi" Type="VI" URL="../Day09-2.vi"/>
 		</Item>
 		<Item Name="inputs" Type="Folder" URL="../inputs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
@@ -49,9 +55,6 @@
 		<Item Name="subVIs" Type="Folder" URL="../subVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Day08-create_set.vi" Type="VI" URL="../Day08-create_set.vi"/>
-		<Item Name="Day08-sets_to_map.vi" Type="VI" URL="../Day08-sets_to_map.vi"/>
-		<Item Name="Day08-stringArray_to_string.vi" Type="VI" URL="../Day08-stringArray_to_string.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
