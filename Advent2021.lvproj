@@ -49,12 +49,16 @@
 			<Item Name="Day09-1.vi" Type="VI" URL="../Day09-1.vi"/>
 			<Item Name="Day09-2.vi" Type="VI" URL="../Day09-2.vi"/>
 		</Item>
+		<Item Name="Day 10" Type="Folder">
+			<Item Name="Day10-1.vi" Type="VI" URL="../Day10-1.vi"/>
+		</Item>
 		<Item Name="inputs" Type="Folder" URL="../inputs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="subVIs" Type="Folder" URL="../subVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Day10-2.vi" Type="VI" URL="../Day10-2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
