@@ -60,6 +60,13 @@
 			<Item Name="Day11-reset_energy_levels.vi" Type="VI" URL="../Day11-reset_energy_levels.vi"/>
 			<Item Name="Day11-update_around_flash.vi" Type="VI" URL="../Day11-update_around_flash.vi"/>
 		</Item>
+		<Item Name="Day 12" Type="Folder">
+			<Item Name="Day12-1.vi" Type="VI" URL="../Day12-1.vi"/>
+			<Item Name="Day12-2.vi" Type="VI" URL="../Day12-2.vi"/>
+			<Item Name="Day12-create_map.vi" Type="VI" URL="../Day12-create_map.vi"/>
+			<Item Name="Day12-validate_path.vi" Type="VI" URL="../Day12-validate_path.vi"/>
+			<Item Name="Day12-validate_path_2.vi" Type="VI" URL="../Day12-validate_path_2.vi"/>
+		</Item>
 		<Item Name="inputs" Type="Folder" URL="../inputs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
