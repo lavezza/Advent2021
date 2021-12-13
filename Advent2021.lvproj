@@ -51,6 +51,14 @@
 		</Item>
 		<Item Name="Day 10" Type="Folder">
 			<Item Name="Day10-1.vi" Type="VI" URL="../Day10-1.vi"/>
+			<Item Name="Day10-2.vi" Type="VI" URL="../Day10-2.vi"/>
+		</Item>
+		<Item Name="Day 11" Type="Folder">
+			<Item Name="Day11-1.vi" Type="VI" URL="../Day11-1.vi"/>
+			<Item Name="Day11-2.vi" Type="VI" URL="../Day11-2.vi"/>
+			<Item Name="Day11-find_next_flash.vi" Type="VI" URL="../Day11-find_next_flash.vi"/>
+			<Item Name="Day11-reset_energy_levels.vi" Type="VI" URL="../Day11-reset_energy_levels.vi"/>
+			<Item Name="Day11-update_around_flash.vi" Type="VI" URL="../Day11-update_around_flash.vi"/>
 		</Item>
 		<Item Name="inputs" Type="Folder" URL="../inputs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
@@ -58,7 +66,6 @@
 		<Item Name="subVIs" Type="Folder" URL="../subVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Day10-2.vi" Type="VI" URL="../Day10-2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
