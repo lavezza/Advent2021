@@ -67,6 +67,11 @@
 			<Item Name="Day12-validate_path.vi" Type="VI" URL="../Day12-validate_path.vi"/>
 			<Item Name="Day12-validate_path_2.vi" Type="VI" URL="../Day12-validate_path_2.vi"/>
 		</Item>
+		<Item Name="Day 13" Type="Folder">
+			<Item Name="Day13-1.vi" Type="VI" URL="../Day13-1.vi"/>
+			<Item Name="Day13-2.vi" Type="VI" URL="../Day13-2.vi"/>
+			<Item Name="Day13-grow_and_set_array.vi" Type="VI" URL="../Day13-grow_and_set_array.vi"/>
+		</Item>
 		<Item Name="inputs" Type="Folder" URL="../inputs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
